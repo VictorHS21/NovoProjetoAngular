@@ -1,9 +1,8 @@
 export class Produto {
-    id: string | undefined;
-    nome: string | undefined;
-    valor: string | undefined;
-    promocao: boolean | undefined;
-    valorPromo: string | undefined;
-    imagemag: string | undefined;
-
+    id: string;
+    nome: string;
+    valor: string;
+    promocao: boolean;
+    valorPromo: string;
+    imagemag: string;
 }
